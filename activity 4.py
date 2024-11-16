@@ -1,0 +1,10 @@
+a=38
+b=36
+c=56
+d=40
+e=a*d
+print('Sum=',e)
+f=e-(b-c)
+print(f)
+g=f/d
+print(g)
